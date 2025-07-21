@@ -9,7 +9,7 @@ I'm currently **Head of Growth at an AI Agent startup**, where I lead user acqui
 Before diving into AI, I worked at:
 
 - 🚗 **Volkswagen** – Led in-car app development and C-end user growth, driving GMV through digital mobility campaigns  
-- 🍶 **Moutai Group** – Built a B2B2C e-commerce platform from scratch and scaled product sales across online and offline channels  
+- 🍶 **Moutai** – Built a B2B2C e-commerce platform from scratch and scaled product sales across online and offline channels  
 - 💡 **Han’s Laser** – Led international event marketing and booth design, doubling SEO traffic and boosting global brand visibility  
 - 🛒 **Alibaba** – Improved app retention and DAU via data-driven content strategy and gamified growth mechanics  
 - 🧠 **Ogilvy** – Drove CRM growth for Shiseido through integrated digital campaigns
