@@ -2,37 +2,30 @@
 
 I’m a full-stack creator and growth strategist who brings ideas to life by blending product intuition, technical execution, and data-driven storytelling.
 
----
-
 ## 💼 About Me
 
 I'm currently **Head of Growth at an AI Agent startup**, where I lead user acquisition, product-led growth, and go-to-market strategy for multi-agent AI systems.
 
 Before diving into AI, I worked at:
 
-- 🚗 **Volkswagen** – Led in-car app development and C-end user growth, driving ¥150M+ GMV through digital mobility campaigns  
-- 🍶 **Moutai Group** – Built a B2B2C e-commerce platform from scratch and scaled new product sales across online and offline channels  
+- 🚗 **Volkswagen** – Led in-car app development and C-end user growth, driving GMV through digital mobility campaigns  
+- 🍶 **Moutai Group** – Built a B2B2C e-commerce platform from scratch and scaled product sales across online and offline channels  
 - 💡 **Han’s Laser** – Led international event marketing and booth design, doubling SEO traffic and boosting global brand visibility  
 - 🛒 **Alibaba** – Improved app retention and DAU via data-driven content strategy and gamified growth mechanics  
-- 🧠 **Ogilvy** – Drove 17%+ CRM growth for Elixir through integrated digital campaigns
+- 🧠 **Ogilvy** – Drove CRM growth for Shiseido through integrated digital campaigns
 
----
 
 ## 🛠️ What I Do Now
 
 - 👩‍💻 Design & develop iOS apps with SwiftUI  
 - 🌐 Build and deploy websites using Markdown, HTML/CSS, JS, and Python  
-- 🤖 Research AI agents that **autonomously run e-commerce businesses**—from product selection to SEO, analytics, and decision loops  
 - 📈 Scale products through full-funnel growth strategy, content ops, and user psychology
-
----
 
 ## ✨ Philosophy
 
 > I believe in **manifestation** — the external world reflects the energy we carry inside.  
 > I build with intention, iteration, and intuition.
 
----
 
 ## 💬 Let's Connect
 
