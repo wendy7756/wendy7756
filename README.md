@@ -18,7 +18,7 @@ Before diving into AI, I worked at:
 ## 🛠️ What I Do Now
 
 - 👩‍💻 Design & develop iOS apps with SwiftUI  
-- 🌐 Build and deploy websites using Markdown, HTML/CSS, JS, and Python  
+- 🌐 Build and deploy websites using Astro, Markdown, HTML/CSS, JS, and Python  
 - 📈 Scale products through full-funnel growth strategy, content ops, and user psychology
 
 ## ✨ Philosophy
