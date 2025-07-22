@@ -17,8 +17,8 @@ Before diving into AI, I worked at:
 
 ## 🛠️ What I Do Now
 
-- 👩‍💻 Design & develop iOS apps with SwiftUI  
-- 🌐 Build and deploy websites using Astro, Markdown, HTML/CSS, JS, and Python  
+- 👩‍💻 Design & develop iOS apps with SwiftUI: Please Don't, Mirrorcam, 3 Pages Daily, AI Coverletter Maker, AI Resume Revise, Newsmood
+- 🌐 Build and deploy websites, [follonet](https://www.follownet.online) , [gloabal travel guide](https://www.localtravelguide.fun)
 - 📈 Scale products through full-funnel growth strategy, content ops, and user psychology
 
 ## ✨ Philosophy
