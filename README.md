@@ -2,9 +2,9 @@
 
 I’m a full-stack creator and growth strategist who brings ideas to life by blending product intuition, technical execution, and data-driven storytelling.
 
-## 💼 About Me
+## 🧚 About Me
 
-I'm currently **Head of Growth at an AI Agent startup**, where I lead user acquisition, product-led growth, and go-to-market strategy for AI products.
+I'm currently **Head of Growth at an AI Agent startup**, where I lead user acquisition, product-led growth, and go-to-market strategy for AI agents.
 
 Before diving into AI, I worked at:
 
