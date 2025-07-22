@@ -19,7 +19,7 @@ Before diving into AI, I worked at:
 
 - 👩‍💻 Design & develop iOS apps with SwiftUI: Please Don't, Mirrorcam, 3 Pages Daily, AI Coverletter Maker, AI Resume Revise, Newsmood
 - 🌐 Build and deploy websites: [follonet](https://www.follownet.online) , [gloabal travel guide](https://www.localtravelguide.fun)
-- 🔧 Open-source project: [context space](https://github.com/context-space/context-space), [vibe coding guide](https://github.com/wendy7756/vibe-coding-guide)
+- 🔧 Open-source projects: [context space](https://github.com/context-space/context-space), [vibe coding guide](https://github.com/wendy7756/vibe-coding-guide)
 - 📈 Scale products through full-funnel growth strategy, content ops, and user psychology
 
 ## ✨ Philosophy
