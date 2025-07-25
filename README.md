@@ -24,8 +24,7 @@ Before diving into AI, I worked at:
 
 ## ✨ Philosophy
 
-> I believe in **manifestation** and the **law of attraction**.  
-> I build with intention, iteration, and intuition.
+I believe in **manifestation** and the **law of attraction**.  
 
 
 ## 💬 Let's Connect
