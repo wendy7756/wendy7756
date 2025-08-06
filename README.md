@@ -4,9 +4,7 @@ I’m a full-stack creator and growth strategist who brings ideas to life by ble
 
 ## 🧚 About Me
 
-I’m co-building an AI agent startup with friends, leading growth, user acquisition, and GTM strategy.
-
-Before diving into AI, I worked at:
+I’m leading growth, user acquisition, and GTM strategy in an AI startup. Before diving into AI, I worked at:
 
 - 🪞 **Ogilvy** – Drove CRM growth for Shiseido through integrated digital campaigns
 - 🛒 **Alibaba** – Improved app retention and DAU via data-driven content strategy and gamified growth mechanics
