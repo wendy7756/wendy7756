@@ -9,5 +9,5 @@ A full-stack creator & growth strategist who transforms ideas into real products
 
 - Open-source Projects: [Context Space](https://github.com/context-space/context-space), [Vibe Coding Guide](https://github.com/wendy7756/vibe-coding-guide)
 
-- 6 iOS Apps: Please Don’t, Mirrorcam, 3 Pages Daily, AI Coverletter Maker, AI Resume Revise, Newsmood
+- 6 iOS Apps: [Please Don’t](https://apps.apple.com/us/app/please-dont-display-messages/id6744848735), [Mirrorcam](https://apps.apple.com/us/app/mirrorcam-reference-camera/id6745373013), [3 Pages Daily], [AI Coverletter Maker](https://apps.apple.com/us/app/ai-cover-letter-maker/id6744460792), [AI Resume Revise](https://apps.apple.com/us/app/ai-resume-revise/id6744333973), [Newsmood](https://apps.apple.com/us/app/newsmood-ai-news-sentiment/id6744967206)
 
