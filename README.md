@@ -5,7 +5,7 @@ A full-stack creator who transforms ideas into real products by blending product
 
 ## 🛠️ My works
 
-- Websites & Web Tools：[Follownet](https://www.follownet.online), [China travel guide](https://www.localtravelguide.fun), [Resumelink](https://resumelink.cloud/)
+- Websites & Web Tools：[Follownet](https://www.follownet.online), [Resumelink](https://resumelink.cloud/)
 
 - Open-source Projects: [Context Space](https://github.com/context-space/context-space), [Podcast Transcriber](https://github.com/wendy7756/podcast-transcriber), [AI Video Transcriber](https://github.com/wendy7756/ai-video-transcriber), [AI Asset Allocation System](https://github.com/wendy7756/AI-Asset-allocation)
 
