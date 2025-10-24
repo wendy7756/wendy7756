@@ -1,6 +1,6 @@
 ## 👋 Hi, this is Wendy
 
-A full-stack creator who transforms ideas into real products by blending product sense, technical execution, and data-driven growth. Ex-Alibaba PM, top 100 uni. Open to collaborations. 
+A full-stack creator who transforms ideas into real products by blending product sense, technical execution, and data-driven growth. Ex-Alibaba, global top 100 university. Open to collaborations. 
 
 
 ## 🛠️ My works
