@@ -13,3 +13,7 @@ A full-stack creator who transforms ideas into real products by blending product
 
 - Academic Research: [Interdisciplinary Research](https://wendy7756.github.io/my-research)
 
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wendy7756&hide=issues,contribs&rank_icon=percentile&theme=buefy&" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendy7756&title_color=a855f7&layout=compact" />
+</p>
