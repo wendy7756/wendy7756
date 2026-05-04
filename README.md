@@ -7,7 +7,7 @@ A full-stack creator who transforms ideas into real products by blending product
 
 - Founder of [sipsip.ai](https://sipsip.ai). SipSip.ai is building proactive, agentic AI that cuts through information overload and pushes back against the attention economy. We go beyond simple AI tools to deliver personalized, autonomous intelligence that works for you.
 
-- CTO & CPO of [Campus Collective](campuscollective.site). The student-to-student services marketplace for American campus communities.
+- CTO & CPO of [Campus Collective](https://campuscollective.site). The student-to-student services marketplace for American campus communities.
 
 - Websites & Web Tools：[Manifestly](https://manifestly.site), [Follownet](https://www.follownet.online), [Resumelink](https://resumelink.cloud/)
 
