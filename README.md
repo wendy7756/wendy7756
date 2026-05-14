@@ -11,9 +11,7 @@ A full-stack creator who transforms ideas into real products by blending product
 
 - CTO & CPO of [Campus Collective](https://campuscollective.site). The student-to-student services marketplace for American campus communities.
 
-- Websites & Web Tools：[Manifestly](https://manifestly.site), [Follownet](https://www.follownet.online), [Resumelink](https://resumelink.cloud/)
-
-- Open-source Projects: [Context Space](https://github.com/context-space/context-space), [Podcast Transcriber](https://github.com/wendy7756/podcast-transcriber), [AI Video Transcriber](https://github.com/wendy7756/ai-video-transcriber), [AI Asset Allocation System](https://github.com/wendy7756/AI-Asset-allocation)
+- Open-source Projects: [AI Video Transcriber](https://github.com/wendy7756/ai-video-transcriber), [Podcast Transcriber](https://github.com/wendy7756/podcast-transcriber), [AI Asset Allocation System](https://github.com/wendy7756/AI-Asset-allocation)
 
 - 9 iOS Apps: [Manifestly](https://apps.apple.com/us/app/manifestly-daily-affirmations/id6753106552), [Teleprompter]([https://teleprompter.works](https://apps.apple.com/app/teleprompter-scrolling-scripts/id6767148844)), [Campus Collective](https://apps.apple.com/us/app/campus-collective/id6756605701), [Please Don’t](https://apps.apple.com/us/app/please-dont-display-messages/id6744848735), [Mirrorcam](https://apps.apple.com/us/app/mirrorcam-reference-camera/id6745373013), [3 Pages Daily](https://apps.apple.com/us/app/3-pages-daily-minimal-journal/id6744717008), [AI Coverletter Maker](https://apps.apple.com/us/app/ai-cover-letter-maker/id6744460792), [AI Resume Revise](https://apps.apple.com/us/app/ai-resume-revise/id6744333973), [Newsmood](https://apps.apple.com/us/app/newsmood-ai-news-sentiment/id6744967206)
 
