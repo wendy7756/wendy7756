@@ -5,9 +5,11 @@ A full-stack creator who transforms ideas into real products by blending product
 
 ## 🛠️ My works
 
+- Founder of [GetPinFast](https://getpin.fast). GetPinFast is an AI-powered Pinterest growth platform that turns Pins into traffic and revenue.
+
 - Founder of [sipsip.ai](https://sipsip.ai). SipSip.ai is building proactive, agentic AI that cuts through information overload and pushes back against the attention economy. We go beyond simple AI tools to deliver personalized, autonomous intelligence that works for you.
 
-- Founder of [Teleprompter](https://teleprompter.works). Teleprompter helps creators, presenters, educators, and content creators read scripts naturally while recording videos.
+- Founder of [Teleprompter-scrolling scripts](https://teleprompter.works). Teleprompter-scrolling scripts helps creators, presenters, educators, and content creators read scripts naturally while recording videos.
 
 - CTO & CPO of [Campus Collective](https://campuscollective.site). The student-to-student services marketplace for American campus communities.
 
