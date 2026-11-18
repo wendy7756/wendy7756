@@ -5,6 +5,8 @@ A full-stack creator who transforms ideas into real products by blending product
 
 ## 🛠️ My works
 
+- Founder of [solacely](https://solacely.org). Solacely is a fortune-telling app featuring daily tarot, Lenormand, and I Ching readings. Record every reading and track what comes true.
+
 - Founder of [3 Pages Daily](https://3pagesdaily.com). 3 Pages Daily helps you remember the past, make sense of the present, and shape what comes next.
 
 - Founder of [GetPinFast](https://getpin.fast). GetPinFast is an AI-powered Pinterest growth platform that turns Pins into traffic and revenue.
